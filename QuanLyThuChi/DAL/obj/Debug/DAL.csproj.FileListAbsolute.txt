@@ -1,0 +1,10 @@
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\DAL\bin\Debug\DAL.dll
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\DAL\bin\Debug\DAL.pdb
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\DAL\obj\Debug\DAL.dll
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\DAL\obj\Debug\DAL.pdb
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\DAL\bin\Debug\DAL.dll.config
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\DAL\bin\Debug\DAL.dll.config
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\DAL\bin\Debug\DAL.dll
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\DAL\bin\Debug\DAL.pdb
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\DAL\obj\Debug\DAL.dll
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\DAL\obj\Debug\DAL.pdb
