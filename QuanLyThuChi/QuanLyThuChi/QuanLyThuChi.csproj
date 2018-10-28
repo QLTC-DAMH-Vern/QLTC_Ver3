@@ -123,6 +123,12 @@
     <Compile Include="frm_girddkkhoanchi.designer.cs">
       <DependentUpon>frm_girddkkhoanchi.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_KhoaTao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_KhoaTao.Designer.cs">
+      <DependentUpon>frm_KhoaTao.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_LapPhieuChi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -216,6 +222,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_girddkkhoanchi.resx">
       <DependentUpon>frm_girddkkhoanchi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_KhoaTao.resx">
+      <DependentUpon>frm_KhoaTao.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_LapPhieuChi.resx">
       <DependentUpon>frm_LapPhieuChi.cs</DependentUpon>

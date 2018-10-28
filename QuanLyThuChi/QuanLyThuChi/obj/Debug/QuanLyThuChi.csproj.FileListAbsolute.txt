@@ -183,3 +183,6 @@ F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\QuanLyThuChi\bin\Debug\DAL.dll
 F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\QuanLyThuChi\bin\Debug\BLL.pdb
 F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\QuanLyThuChi\bin\Debug\LinQ.pdb
 F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\QuanLyThuChi\bin\Debug\DAL.pdb
+F:\GitHub\QLTC_DAMH\QLTC_Ver3\QuanLyThuChi\QuanLyThuChi\bin\Debug\QuanLyThuChi.exe.config
+F:\GitHub\QLTC_DAMH\QLTC_Ver3\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.exe
+F:\GitHub\QLTC_DAMH\QLTC_Ver3\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.pdb
