@@ -1,0 +1,5 @@
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\XuLi\bin\Debug\XuLi.dll
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\XuLi\bin\Debug\XuLi.pdb
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\XuLi\obj\Debug\XuLi.csprojResolveAssemblyReference.cache
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\XuLi\obj\Debug\XuLi.dll
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\XuLi\obj\Debug\XuLi.pdb
