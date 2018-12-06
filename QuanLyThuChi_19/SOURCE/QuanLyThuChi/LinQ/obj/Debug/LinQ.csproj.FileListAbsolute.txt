@@ -1,0 +1,12 @@
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\LinQ\bin\Debug\LinQ.dll.config
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\LinQ\bin\Debug\LinQ.dll
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\LinQ\bin\Debug\LinQ.pdb
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\LinQ\obj\Debug\LinQ.csprojResolveAssemblyReference.cache
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\LinQ\obj\Debug\LinQ.dll
+F:\DAMH_LTWNC\New folder (2)\QuanLyThuChi\LinQ\obj\Debug\LinQ.pdb
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\LinQ\bin\Debug\LinQ.dll.config
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\LinQ\bin\Debug\LinQ.dll
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\LinQ\bin\Debug\LinQ.pdb
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\LinQ\obj\Debug\LinQ.dll
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\LinQ\obj\Debug\LinQ.pdb
+F:\DAMH_LTWNC\QLTC_D\QuanLyThuChi\LinQ\obj\Debug\LinQ.csprojResolveAssemblyReference.cache
